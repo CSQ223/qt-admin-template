@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fontawesome-webfont.ttf</file>
+        <file>images/Font Awesome 5 Brands-Regular-400.otf</file>
+        <file>images/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>images/Font Awesome 5 Free-Solid-900.otf</file>
+        <file>images/fontawesome-webfont_old.ttf</file>
+        <file>images/fa-solid-900.ttf</file>
+    </qresource>
+</RCC>
